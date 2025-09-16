@@ -1,6 +1,31 @@
-# CatchUp
+# CatchUp (catch-up)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
+## Overview
+This project is a news application that allows users to catch up on the latest news.
+
+## Features
+- Fetch News Sources.
+- Fetch News Articles for the selected source.
+- View Articles in a list.
+- It shows for each article information like title, description, image.
+- It allows users to share the article.
+
+## Technologies
+- Angular framework.
+- Typescript language.
+- Angular Material UI Component Library.
+- Angular HTTP client.
+- Angular Signals.
+- Angular reactive state management.
+- NGX-Translate library.
+- NewsAPI.org service client.
+- Clearbit Logo service client.
+
+## User Stories
+The user stories can be found in the [docs/user-stories.md](docs/user-stories.md) file.
+
+## Class Diagram
+The class diagram can be found in the [docs/class-diagram.puml](docs/class-diagram.puml) file.
 
 ## Development server
 
