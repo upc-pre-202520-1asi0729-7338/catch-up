@@ -1,6 +1,9 @@
 {
   "name": "catch-up",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "News application for catching up with the latest news.",
+  "author": "Open-Source Applications Development Team",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
